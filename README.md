@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm John, a frontend developer from Nigeria. I'm open to jobs, collaborations and even questions. Hit me up on john.osezei@yahoo.com.
+I'm John, a frontend developer from Nigeria. I'm open to jobs, collaborations and even questions. Hit me up at john.osezei@yahoo.com.
 
 <!--
 **Osezei/osezei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
